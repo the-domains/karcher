@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Karcher]]></title>
         <description><![CDATA[Karcher]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/karcher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 04:00:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 04:10:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/karcher/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On the way to ladybug paradise]]></title>
+            <description><![CDATA[<article><h1>On the way to ladybug paradise</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05590865-367c-47aa-97c6-8f2d41280f08.png"></article>]]></description>
+            <link>https://thegrid.ai/karcher/on-the-way-to-ladybug-paradise/index.html</link>
+            <guid isPermaLink="false">00226839-b5b8-4c7e-9415-f60c37bb0c5f</guid>
+            <pubDate>Wed, 13 Apr 2016 04:09:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My day with a wolf dog]]></title>
             <description><![CDATA[<article><h1>My day with a wolf dog</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/451341f8-f0e8-495f-98de-8c37befa7caa.png"></article>]]></description>
-            <link>undefinedmy-day-with-a-wolf-dog/index.html</link>
+            <link>https://thegrid.ai/karcher/my-day-with-a-wolf-dog/index.html</link>
             <guid isPermaLink="false">a4db0f85-0765-4025-8935-ec3087f889cb</guid>
             <pubDate>Wed, 13 Apr 2016 03:59:14 GMT</pubDate>
         </item>
