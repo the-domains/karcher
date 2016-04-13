@@ -1,3 +1,7 @@
+name: Karcher
+favicon: null
+layout_spectrum: 0.74025
+typography_spectrum: 0.4999999
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4999999
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.750896
-  brandStrength: 0.5314307
-  lightness: 0.5215053
   brandColors:
     - '#0D0C0C'
     - '#F2F3F2'
     - '#88929A'
     - '#4B535C'
     - '#886F4B'
-  rhythmicContrast: 0.5227001
-layout_spectrum: 0.416368
-name: Karcher
+  brandStrength: 0.0625
+  lightness: 0.1875
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
