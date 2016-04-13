@@ -1,0 +1,14 @@
+layout_spectrum: 0.416368
+typography_spectrum: 0.4999999
+color:
+  saturation: 0.3076464
+  lightness: 0.1308243
+  brandStrength: 0.5314307
+  brandColors:
+    - '#0D0C0C'
+    - '#F2F3F2'
+    - '#88929A'
+    - '#4B535C'
+    - '#886F4B'
+  rhythmicContrast: 1
+name: Karcher
