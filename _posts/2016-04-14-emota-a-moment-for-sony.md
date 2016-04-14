@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Director - Chris Karcher Producer - Marco Jimenez & Bekah Christie Music Artist - Shadows_On_Stars Music Title - When_it_Builds emota: Sony Electronics approached emota with a challenge to bring their new brand aesthetic to life in an attention getting video.'
-datePublished: '2016-04-14T05:35:31.582Z'
-dateModified: '2016-04-14T05:35:12.404Z'
+datePublished: '2016-04-14T06:03:35.388Z'
+dateModified: '2016-04-14T05:35:40.001Z'
 author:
   - name: emota
     url: 'http://vimeo.com/emota'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: 'emota: "A Moment" for SONY'
+sourcePath: _posts/2016-04-14-emota-a-moment-for-sony.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-04-14-emota-a-moment-for-sony.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
