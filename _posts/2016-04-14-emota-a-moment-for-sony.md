@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Director - Chris Karcher Producer - Marco Jimenez & Bekah Christie Music Artist - Shadows_On_Stars Music Title - When_it_Builds emota: Sony Electronics approached emota with a challenge to bring their new brand aesthetic to life in an attention getting video.'
-datePublished: '2016-04-14T06:03:35.388Z'
-dateModified: '2016-04-14T05:35:40.001Z'
+datePublished: '2016-04-14T06:04:02.998Z'
+dateModified: '2016-04-14T06:03:42.265Z'
 author:
   - name: emota
     url: 'http://vimeo.com/emota'
