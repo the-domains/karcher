@@ -34,7 +34,7 @@ color:
     - '#4B535C'
     - '#886F4B'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0
   saturation: 0.5
   rhythmicContrast: 0
 purpose: []
