@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:8d367c55-298c-48f4-968b-803e44493987'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-04-14T06:03:52.152Z'
+dateModified: '2016-04-14T06:03:51.698Z'
 author: []
-datePublished: '2016-04-13T03:59:14.774Z'
-publisher:
-  domain: ''
-  name: ''
 title: My day with a wolf dog
-dateModified: '2016-04-13T03:59:00.837Z'
 sourcePath: _posts/2016-04-13-my-day-with-a-wolf-dog.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: my-day-with-a-wolf-dog/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
