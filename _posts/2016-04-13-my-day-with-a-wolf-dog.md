@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-14T07:12:34.630Z'
-dateModified: '2016-04-14T07:09:43.024Z'
+datePublished: '2016-04-20T15:16:50.032Z'
+dateModified: '2016-04-14T07:12:43.776Z'
 author: []
 title: My day with a wolf dog
 sourcePath: _posts/2016-04-13-my-day-with-a-wolf-dog.md
