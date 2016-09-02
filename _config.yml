@@ -1,4 +1,3 @@
-layout_spectrum: 0
 typography_spectrum: 0.9557082871906459
 color:
   saturation: 0.8749100905843079
@@ -11,12 +10,25 @@ color:
     - '#2A2C2B'
     - '#1E1E20'
   lightness: 0.7776441683527082
-favicon: null
-name: Karcher
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Karcher
+cta:
+  bucket: null
+  version: null
+  domain: null
+navigation:
+  - name: SONY
+    id: eb210b20-ae59-4775-9667-88ff5eeed371
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -30,11 +42,3 @@ collections:
     permalink:
       path: '/:title/'
 purpose: []
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
