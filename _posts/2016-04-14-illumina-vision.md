@@ -1,14 +1,14 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://vimeo.com/123334547'
 inLanguage: null
-starred: false
 keywords: []
-description: 'This is "Illumina Vision" by emota on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-04-14T07:08:50.779Z'
-dateModified: '2016-04-14T06:03:18.468Z'
+description: >-
+  This is "Illumina Vision" by emota on Vimeo, the home for high quality videos
+  and the people who love them.
+datePublished: '2016-08-31T12:24:52.514Z'
+dateModified: '2016-08-31T12:24:51.942Z'
 author:
   - avatar: {}
 related: []
@@ -41,13 +41,15 @@ app_links:
     id: com.vimeo.android.videoapp
 title: Illumina Vision
 sourcePath: _posts/2016-04-14-illumina-vision.md
-published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+via: {}
+starred: false
+url: illumina-vision/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
