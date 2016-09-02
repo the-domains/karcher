@@ -31,6 +31,9 @@ navigation:
   - name: 'Illumina '
     id: 37b38244-228f-42ef-81fb-c966bacd8a99
     type: content
+  - name: WestLiving
+    id: 57060fa2-a5a4-42e0-b8ac-75be465d93a7
+    type: content
 favicon: null
 collections:
   - index:
