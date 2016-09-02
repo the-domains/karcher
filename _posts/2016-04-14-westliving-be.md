@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-31T12:22:57.704Z'
+datePublished: '2016-08-31T12:25:18.623Z'
 sourcePath: _posts/2016-04-14-westliving-be.md
 inFeed: true
-isBasedOnUrl: 'https://vimeo.com/139634086'
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 related: []
 author:
@@ -12,7 +11,7 @@ author:
     url: 'http://vimeo.com/emota'
     avatar: {}
 via: {}
-dateModified: '2016-08-31T12:22:57.361Z'
+dateModified: '2016-08-31T12:25:18.300Z'
 title: testing copy
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/139634086'
@@ -50,6 +49,7 @@ description: ''
 inLanguage: null
 inNav: false
 starred: true
+url: testing-copy/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
