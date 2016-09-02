@@ -28,6 +28,9 @@ navigation:
   - name: SONY
     id: eb210b20-ae59-4775-9667-88ff5eeed371
     type: content
+  - name: 'Illumina '
+    id: 37b38244-228f-42ef-81fb-c966bacd8a99
+    type: content
 favicon: null
 collections:
   - index:
