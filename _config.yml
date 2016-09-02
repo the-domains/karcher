@@ -1,3 +1,16 @@
+layout_spectrum: 0
+typography_spectrum: 0.9557082871906459
+color:
+  saturation: 0.8749100905843079
+  brandStrength: 0.5085254244040698
+  rhythmicContrast: 0.8132449549157172
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+  lightness: 0.7776441683527082
 favicon: null
 name: Karcher
 opengraph:
@@ -17,23 +30,10 @@ collections:
     permalink:
       path: '/:title/'
 purpose: []
-color:
-  saturation: 0.5
-  brandStrength: 0
-  rhythmicContrast: 0
-  brandColors:
-    - '#0D0C0C'
-    - '#F2F3F2'
-    - '#88929A'
-    - '#4B535C'
-    - '#886F4B'
-  lightness: 0
-typography_spectrum: 0.4999999
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0
 analytics:
   twitter: null
   google: null
